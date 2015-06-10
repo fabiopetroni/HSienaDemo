@@ -1,5 +1,5 @@
-# HSienaSimulator
-A simulator for the self-reconfiguring procedure of a pub/sub network presented in the following paper:
+# HSienaDemo
+A demo for the self-reconfiguring procedure of a pub/sub network presented in the following paper:
 
 -  F. Petroni and L. Querzoni:
    HSIENA: a hybrid publish/subscribe system.
