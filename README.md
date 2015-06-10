@@ -15,3 +15,11 @@ Abstract:  The SIENA publish/subscribe system represents a prototypical design f
    In this paper we propose HSIENA, a hybrid architecture that complements SIENA by adding the ability to 
    self-reconfigure after broker additions and removals. The architecture has a novel design that mixes the 
    classic SIENA’s distributed architecture with a highly available cloud-based storage service.
+
+The application makes use of JUNG — the Java Universal Network/Graph Framework (http://jung.sourceforge.net).
+All the libraries needed are in the dist/lib folder:
+- collections-generic-4.01.jar
+- jung-algorithms-2.0.1.jar
+- jung-api-2.0.1.jar
+- jung-graph-impl-2.0.1.jar
+- jung-visualization-2.0.1.jar
