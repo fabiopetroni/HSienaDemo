@@ -24,3 +24,5 @@ All the libraries needed are in the dist/lib folder:
 - jung-api-2.0.1.jar
 - jung-graph-impl-2.0.1.jar
 - jung-visualization-2.0.1.jar
+
+Fabio
